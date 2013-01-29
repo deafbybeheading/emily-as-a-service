@@ -8,6 +8,7 @@ get '/poems/random' do
 end
 
 get '/poem/about/:word' do |word|
+  content_type 'text/plain'
   poems.select { |poem| poem =~ /#{word}/i }.sample
 end
 
