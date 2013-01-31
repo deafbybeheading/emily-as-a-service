@@ -3,7 +3,12 @@
 
 require 'sinatra'
 
+get '/' do
+  redirect '/poems/random', 303
+end
+
 get '/poems/random' do
+  content_type 'text/plain'
   poems.sample
 end
 
