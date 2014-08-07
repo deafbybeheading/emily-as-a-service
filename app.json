@@ -1,0 +1,7 @@
+{
+    "name": "Emily-as-a-Service",
+    "description": "A barebones sample Sinatra web service providing a small selection of Emily Dickinson works as a service",
+    "repository": "https://github.com/deafbybeheading/emily-as-a-service",
+    "success_url": "/",
+    "keywords": ["ruby", "sinatra", "sample"]
+}

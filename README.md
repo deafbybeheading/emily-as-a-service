@@ -1,5 +1,7 @@
 # Emily-as-a-Service
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ## Usage
 
 Get a random poem:
