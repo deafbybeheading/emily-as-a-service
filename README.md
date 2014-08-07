@@ -1,5 +1,8 @@
 # Emily-as-a-Service
 
+Very simple Sinatra sample app, offering a small selection of the
+works of Emily Dickinson via an API.
+
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Usage
